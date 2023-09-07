@@ -4,5 +4,5 @@ python-time
 matplotlib
 collection
 logging
-csv
-platform
+python-csv
+
