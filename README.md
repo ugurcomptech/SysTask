@@ -46,7 +46,7 @@ Bu uygulama Python 3 gerektirir. İşte temel kullanım adımları:
 - Sistem bilgilerini görüntüleme
 - Süreç verilerini CSV dosyasına aktarma ve içe aktarma
 
-![image](https://github.com/ugurcomptech/SysTask/assets/133202238/7ca5629b-9ffb-4d2d-b42f-f24663a5f0bc)
+  ![image](https://github.com/ugurcomptech/SysTask/assets/133202238/7ca5629b-9ffb-4d2d-b42f-f24663a5f0bc)
 
 
 ## Katkıda Bulunma
